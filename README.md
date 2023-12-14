@@ -1,5 +1,5 @@
 # Introduction
-This warehouse is used to store the content discussed in the paper 'Exploration of shock-droplet interaction based on high-fidelity simulation and improved theoretical model
+This repository is used to store the content discussed in the paper 'Exploration of shock-droplet interaction based on high-fidelity simulation and improved theoretical model
 ', including the software used, theoretical analysis models, and data analysis Excel.
 
 # Softwave
