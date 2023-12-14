@@ -10,4 +10,5 @@ The input file used for calculation is placed in the caltivation directory. 'Mac
 'Mach2.4D22_N' represents the liquid phase as n-hexane and the other setup is the same as above.
 
 # Analysis
-Theoretical analysis model based on ray tracing method in Python file, the 'pre_ min' file records the pressure changes at various conditions. The reciprocal columns of the data are negative pressure value, negative pressure point x position, and y position, respectively.
+Theoretical analysis model based on ray tracing method in Python file, the 'pre_ min' file records the pressure changes at various conditions. The reciprocal columns of the data are negative pressure value, negative pressure point x position, and y position, respectively. The 'Mach stem' file records the Mach stem's trajectory obtained from post-processing.
+
